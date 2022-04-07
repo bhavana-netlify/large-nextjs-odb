@@ -20,7 +20,7 @@ export default function Docs({ data }) {
               HEDGES DOCUMENTATION
             </h2>
             <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">
-              Get started with Hedges Documentation
+              Get started with Hedges Documentation on Preview
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
               Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
